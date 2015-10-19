@@ -239,11 +239,12 @@ int id action_menu_presenter 0x7f050017
 int id action_mode_bar 0x7f05002f
 int id action_mode_bar_stub 0x7f05002e
 int id action_mode_close_button 0x7f050022
-int id action_settings 0x7f05004e
+int id action_settings 0x7f05004f
 int id activity_chooser_view_content 0x7f050023
 int id always 0x7f05000b
 int id beginning 0x7f050011
-int id btn_refresh 0x7f05004b
+int id btn_refresh 0x7f05004c
+int id cb_savePass 0x7f050049
 int id checkbox 0x7f05002b
 int id collapseActionView 0x7f05000d
 int id default_activity_button 0x7f050026
@@ -267,7 +268,7 @@ int id list_item 0x7f050027
 int id login 0x7f050047
 int id login_form 0x7f050043
 int id login_progress 0x7f050042
-int id lv 0x7f05004a
+int id lv 0x7f05004b
 int id middle 0x7f050012
 int id never 0x7f050009
 int id none 0x7f050010
@@ -299,9 +300,9 @@ int id tabMode 0x7f050002
 int id title 0x7f050029
 int id title_container 0x7f050030
 int id top_action_bar 0x7f05001e
-int id tv 0x7f05004d
-int id tv_error 0x7f05004c
-int id tv_welcome 0x7f050049
+int id tv 0x7f05004e
+int id tv_error 0x7f05004d
+int id tv_welcome 0x7f05004a
 int id up 0x7f05001f
 int id useLogo 0x7f050003
 int id withText 0x7f05000c

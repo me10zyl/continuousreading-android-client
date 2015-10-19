@@ -993,11 +993,12 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f05002f;
         public static final int action_mode_bar_stub=0x7f05002e;
         public static final int action_mode_close_button=0x7f050022;
-        public static final int action_settings=0x7f05004e;
+        public static final int action_settings=0x7f05004f;
         public static final int activity_chooser_view_content=0x7f050023;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
-        public static final int btn_refresh=0x7f05004b;
+        public static final int btn_refresh=0x7f05004c;
+        public static final int cb_savePass=0x7f050049;
         public static final int checkbox=0x7f05002b;
         public static final int collapseActionView=0x7f05000d;
         public static final int default_activity_button=0x7f050026;
@@ -1021,7 +1022,7 @@ containing a value of this type.
         public static final int login=0x7f050047;
         public static final int login_form=0x7f050043;
         public static final int login_progress=0x7f050042;
-        public static final int lv=0x7f05004a;
+        public static final int lv=0x7f05004b;
         public static final int middle=0x7f050012;
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
@@ -1053,9 +1054,9 @@ containing a value of this type.
         public static final int title=0x7f050029;
         public static final int title_container=0x7f050030;
         public static final int top_action_bar=0x7f05001e;
-        public static final int tv=0x7f05004d;
-        public static final int tv_error=0x7f05004c;
-        public static final int tv_welcome=0x7f050049;
+        public static final int tv=0x7f05004e;
+        public static final int tv_error=0x7f05004d;
+        public static final int tv_welcome=0x7f05004a;
         public static final int up=0x7f05001f;
         public static final int useLogo=0x7f050003;
         public static final int withText=0x7f05000c;
